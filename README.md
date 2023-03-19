@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=ffffff&vCenter=true&center=true&width=460&lines=Hi👋,+I'm+Vivek+Yadav;Software+Engineer;Full+Stack+Devloper">
+    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=ffffff&vCenter=true&center=true&width=460&lines=Hi👋,+I'm+Akash+gupta;Software+Engineer;Frontend+Devloper">
 </h1>
 
 # 💫 About Me:
